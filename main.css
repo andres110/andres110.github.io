@@ -1,0 +1,26 @@
+body {background-color:#CCCCFF;
+}
+li{
+  color:white;
+}
+header { color:violet;
+}
+
+nav a:hover{
+  font-size: 10px;
+  display: flex;
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+}
+.ohOhGeez{
+  text-size:100px;
+}
+.okay{
+  text-align: center;
+}
+
+input {
+  display: block;
+  padding: inherit;
+}
